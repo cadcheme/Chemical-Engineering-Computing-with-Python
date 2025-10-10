@@ -1,3 +1,7 @@
 *.lnk
 *.ipynb_checkpoints
 *.virtual_documents
+doc/
+.ipynb_checkpoints/
+.virtual_documents/
+unit-conversion/archive/
